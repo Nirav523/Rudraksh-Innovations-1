@@ -1,0 +1,14 @@
+# Robots.txt for Rudraksh Innovations
+# Allows search engine crawlers (Googlebot, Bingbot, etc.) full access to index all public content
+
+User-agent: *
+Allow: /
+
+# Disallow build artifacts and private assets if any
+Disallow: /dist/
+Disallow: /build/
+Disallow: /*.zip$
+
+# Host and Canonical Sitemap Link
+Host: https://rudrakshinnovations.com
+Sitemap: https://rudrakshinnovations.com/sitemap.xml

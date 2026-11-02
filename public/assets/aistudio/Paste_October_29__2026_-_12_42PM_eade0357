@@ -1,0 +1,1128 @@
+# MASTER BUILD PROMPT: RUDRAKSH INNOVATIONS — PREMIUM 3D DIGITAL AGENCY WEBSITE
+
+## ROLE AND OBJECTIVE
+
+Act as an award-winning digital experience creative director, senior UI/UX designer, Three.js specialist, React/Next.js engineer, conversion-focused web designer, and frontend performance engineer.
+
+Your task is to completely redesign and implement the website:
+
+https://rudrakshinnovations.com/
+
+The website belongs to Rudraksh Innovations, a digital marketing, creative, web development, and technology agency.
+
+Build a premium, luxurious, futuristic, fully responsive website featuring immersive 3D visuals, cinematic scroll interactions, an interactive portfolio gallery, sophisticated service cards, attractive pricing packages, and a polished contact experience.
+
+Use the supplied website screenshot and `orbis(2).mp4` as visual references for composition, dimensionality, curved galleries, and scrolling interactions.
+
+**Important: The final website must have a light luxury theme, not an all-black background.**
+
+The website must preserve the company's existing identity, actual business information, published services, brand philosophy, strategy, creative gallery content, pricing, and contact details.
+
+This is a complete website redevelopment project, not merely a hero redesign.
+
+---
+
+# PHASE 1 — INSPECT THE EXISTING WEBSITE AND PROJECT
+
+Before implementation, inspect the existing project and use the current live website as the primary content reference.
+
+Website:
+https://rudrakshinnovations.com/
+
+Review the existing page structure, navigation, text, images, logos, gallery assets, package information, testimonials, contact form, and footer.
+
+Inspect the repository files where available:
+
+- `AGENTS.md`
+- `.claude/skills/ui-ux-pro-max/SKILL.md`
+- `package.json`
+- `.mcp.json`
+- `src/`
+- `public/`
+- Existing application configuration
+- Existing design assets
+- Existing form and contact integrations
+
+Use the UI/UX Pro Max skill if present. Read its actual instructions and follow the relevant design-system, typography, color, layout, accessibility, and implementation workflows.
+
+If the skill includes design-system search tools, use them to establish a suitable luxury creative-agency design system.
+
+Inspect the existing dependencies before installing or upgrading packages.
+
+Do not discard useful code, existing integrations, or brand assets without reason.
+
+## Content migration rules
+
+Use the existing live website as the primary source of business content.
+
+Preserve the meaning of the company's existing descriptions, service names, brand philosophy, four-stage growth strategy, creative gallery categories, package prices, and contact information.
+
+Improve grammar, clarity, hierarchy, and presentation where needed without changing business facts.
+
+Use actual existing images and logos where available. Reuse appropriate local assets and download or recreate assets only when permitted and technically necessary.
+
+Do not invent client names, awards, performance statistics, guarantees, testimonials, project results, or company credentials.
+
+If published testimonials or case studies cannot be verified as genuine and approved for use, flag them for confirmation rather than presenting them as independently verified facts.
+
+Where the live website and this prompt differ, preserve established business facts and flag any unresolved commercial discrepancy instead of silently changing prices or deliverables.
+
+---
+
+# PHASE 2 — CREATIVE DIRECTION AND DESIGN SYSTEM
+
+## Design concept
+
+Create an original luxury digital experience under the creative direction:
+
+"Precision Meets Imagination."
+
+The website should communicate creativity, intelligence, focus, technology, innovation, and measurable business growth.
+
+The visual language should combine:
+
+- Luxury editorial design
+- Sophisticated 3D sculpture
+- Champagne-gold metallic surfaces
+- Porcelain and ivory materials
+- Subtle lavender illumination
+- Fine-line interface details
+- Premium typography
+- Layered depth and perspective
+- Elegant scrolling transitions
+- Restrained, cinematic motion
+
+The result should feel like a bespoke international creative technology studio website, not a generic digital marketing template.
+
+## Color palette
+
+Use these design tokens consistently:
+
+- Warm ivory: `#F8F5EF`
+- Porcelain white: `#FFFCF7`
+- Champagne gold: `#C6A66B`
+- Pale gold: `#E4D3AE`
+- Muted lavender: `#B6A1D9`
+- Deep plum: `#4B2A68`
+- Warm charcoal: `#25232A`
+- Muted taupe: `#79736B`
+- Fine borders: subtle warm gray or pale champagne
+
+The dominant background must be warm ivory and porcelain.
+
+Use deep plum and charcoal selectively for contrast, typography, selected panels, and visual emphasis. Never make every section black.
+
+Avoid excessive saturated purple gradients, generic neon effects, and random color changes.
+
+## Typography
+
+Use an elegant editorial display typeface paired with a highly readable modern sans-serif.
+
+Create a clear hierarchy between:
+
+- Hero headlines
+- Section headlines
+- Service names
+- Project titles
+- Package prices
+- Body text
+- Eyebrows and metadata
+
+Use generous line-height, deliberate line breaks, and balanced typography.
+
+Load fonts efficiently and avoid layout shifts.
+
+## Materials and surfaces
+
+Use a consistent visual language for:
+
+- Champagne-metallic 3D sculptures
+- Frosted glass panels
+- Soft porcelain surfaces
+- Delicate gold borders
+- Layered paper-like cards
+- Subtle reflective materials
+- Carefully controlled shadows
+
+Glassmorphism must be used selectively, not everywhere.
+
+Use large editorial compositions and asymmetric layouts in addition to cards.
+
+---
+
+# PHASE 3 — GLOBAL NAVIGATION
+
+Build a refined floating navigation bar.
+
+Brand:
+Rudraksh Innovations
+
+Navigation links:
+
+- Home
+- Services
+- About
+- Strategy
+- Portfolio
+- Packages
+- Contact
+
+Primary CTA:
+"Book a Free Consultation"
+
+Design:
+
+- Translucent ivory surface
+- Subtle backdrop blur
+- Fine champagne border
+- Elegant wordmark
+- Minimal typography
+- Small active-section indicator
+- Restrained shadow
+- Smooth navigation transitions
+
+At the top of the page, the navigation should appear lightweight and integrated with the hero.
+
+When scrolling, it should transform into a polished floating navigation surface.
+
+On mobile, create an accessible animated menu with clear open and close controls.
+
+Use the existing brand logo if available. Do not invent a standalone R logo or alter an existing logo unnecessarily.
+
+All navigation links must work correctly.
+
+---
+
+# PHASE 4 — HERO SECTION: IMMERSIVE 3D BRAND EXPERIENCE
+
+The hero must be the visual centerpiece of the website.
+
+Use the composition of the provided reference image as inspiration: refined navigation, a strong headline, a distinctive central 3D visual, elegant CTAs, and a transition into the next section.
+
+Create an original light-themed interpretation.
+
+## Hero content
+
+Eyebrow:
+"AI-POWERED DIGITAL AGENCY"
+
+Headline:
+
+"Scale Your Brand
+Into The Future."
+
+Supporting text:
+
+"We engineer compelling content, intelligent digital experiences, and performance-focused marketing strategies to help your business stand out, connect with its audience, and grow."
+
+Primary CTA:
+"Explore Our Work"
+
+Secondary CTA:
+"Book a Free Consultation"
+
+Use the brand's existing messaging as the foundation. Do not claim guaranteed viral reach, guaranteed ROI, or guaranteed rankings.
+
+## 3D hero artwork
+
+Build a custom React Three Fiber scene with an elegant sculptural object inspired by innovation and precision.
+
+Preferred creative concept:
+
+A floating champagne-gold metallic ribbon intertwined with a translucent porcelain form, surrounded by delicate lavender atmospheric light and tiny reflective particles.
+
+The sculpture should feel custom-designed, dimensional, and luxurious.
+
+Use:
+
+- Physically based materials
+- Carefully tuned metalness and roughness
+- Environment lighting
+- Soft key and rim lighting
+- Controlled reflections
+- Subtle atmospheric particles
+- Gentle rotation
+- Pointer-responsive parallax
+- Scroll-linked camera movement
+
+Avoid a generic purple glowing sphere.
+
+The sculpture must complement the headline without reducing readability.
+
+## Hero scroll interaction
+
+As the user scrolls:
+
+1. The sculpture gently rotates or changes orientation.
+2. The camera moves subtly through the composition.
+3. Fine particles shift naturally.
+4. The next section enters through a coordinated transition.
+5. The visual system retains consistent lighting and color.
+
+Do not make the hero animation excessively long or block access to the website.
+
+Provide a static fallback for reduced-motion users and devices without WebGL.
+
+---
+
+# PHASE 5 — TRUST AND BRAND INTRODUCTION
+
+Introduce the company's philosophy after the hero.
+
+Eyebrow:
+"THE FUTURE OF DIGITAL GROWTH"
+
+Headline:
+"Creative Intelligence. Measurable Impact."
+
+Supporting copy:
+
+"Rudraksh Innovations brings together creative thinking, intelligent technology, and data-driven digital strategy to help businesses build stronger brands and create sustainable growth."
+
+Use generous whitespace, editorial typography, and a subtle dimensional illustration.
+
+Do not insert fabricated client logos, unsupported metrics, or fake award badges.
+
+The section should transition naturally from the hero into the service offering.
+
+---
+
+# PHASE 6 — SERVICES: ALL EXISTING SERVICES
+
+Use the eight published service categories from the current website.
+
+Section eyebrow:
+"WHAT WE DO"
+
+Headline:
+"Our Expertise"
+
+Supporting text:
+
+"Comprehensive digital solutions engineered for the modern era of marketing."
+
+Create eight visually distinctive service presentations.
+
+## Service 01 — Social Media Management
+
+Existing positioning:
+"Full-service account handling across all platforms."
+
+Expanded presentation:
+
+"Build a consistent brand presence through strategic content planning, account management, community engagement, and platform-specific execution."
+
+Visual direction:
+Layered social content cards, a dimensional content calendar, and refined interface mockups.
+
+CTA:
+"Explore Social Media Management"
+
+## Service 02 — Instagram Growth
+
+Existing positioning:
+"Organic strategies to skyrocket your followers."
+
+Expanded presentation:
+
+"Strengthen your Instagram presence with audience-focused content, compelling creative, consistent publishing, and organic growth strategies."
+
+Visual direction:
+A floating editorial Instagram-style profile mockup, content tiles, and subtle animated engagement indicators.
+
+Do not promise a specific follower count or guaranteed growth.
+
+CTA:
+"Explore Instagram Growth"
+
+## Service 03 — Paid Ads
+
+Existing positioning:
+"High-ROI Meta & Google advertising campaigns."
+
+Expanded presentation:
+
+"Plan, create, and optimize targeted advertising campaigns across Meta and Google to support lead generation, visibility, and business objectives."
+
+Visual direction:
+A dimensional campaign dashboard, layered ad creatives, and animated analytical elements.
+
+Do not guarantee a particular ROI.
+
+CTA:
+"Explore Paid Advertising"
+
+## Service 04 — Reel Production
+
+Existing positioning:
+"Viral-worthy short-form video editing."
+
+Expanded presentation:
+
+"Create engaging short-form video content with compelling hooks, refined editing, purposeful pacing, and platform-ready creative."
+
+Visual direction:
+A cinematic stack of vertical video mockups, floating video frames, and timeline-inspired elements.
+
+CTA:
+"Explore Reel Production"
+
+## Service 05 — Branding
+
+Existing positioning:
+"Premium identity design and graphics."
+
+Expanded presentation:
+
+"Develop a cohesive visual identity through thoughtful creative direction, graphic design, brand consistency, and memorable digital assets."
+
+Visual direction:
+Dimensional typography, refined brand boards, premium packaging mockups, and elegant visual compositions.
+
+CTA:
+"Explore Branding"
+
+## Service 06 — Web Development
+
+Existing positioning:
+"Futuristic, high-converting websites."
+
+Expanded presentation:
+
+"Design and develop responsive, high-performance websites that communicate your value, deliver excellent user experiences, and support conversion goals."
+
+Visual direction:
+A floating browser window with layered website mockups and subtle perspective.
+
+CTA:
+"Explore Web Development"
+
+## Service 07 — Email Marketing
+
+Existing positioning:
+"Targeted email campaigns to nurture and convert leads."
+
+Expanded presentation:
+
+"Create targeted email campaigns and customer journeys that nurture relationships, encourage engagement, and support conversions."
+
+Visual direction:
+Layered email cards, connected automation nodes, and an elegant flow diagram.
+
+CTA:
+"Explore Email Marketing"
+
+## Service 08 — SEO & Local SEO
+
+Existing positioning:
+"Dominate search results and get found."
+
+Expanded presentation:
+
+"Improve search visibility through relevant SEO practices, local search optimization, technical improvements, and content strategy."
+
+Visual direction:
+A dimensional search interface, location-inspired nodes, and clean analytical visualizations.
+
+CTA:
+"Explore SEO Solutions"
+
+## Additional technology capability
+
+Include Software Development and IT Consulting only where the current project, business information, or confirmed service offering supports them.
+
+The existing company mission includes strategic IT consulting and intelligent digital platforms. Preserve that positioning without inventing a separate unverified service package.
+
+## Service section design
+
+Use a combination of:
+
+- Asymmetric editorial layouts
+- Varied card sizes
+- Floating 3D elements
+- Subtle gold borders
+- Ivory and porcelain surfaces
+- Delicate lavender accents
+- Hover depth
+- Scroll-triggered transitions
+- Clear service links
+
+Every service must have a distinct visual identity while belonging to the same design system.
+
+Do not simply repeat one card eight times with different icons.
+
+---
+
+# PHASE 7 — THE RUDRAKSH DNA: SOUL & SCIENCE
+
+Preserve the existing brand philosophy and transform it into a premium visual storytelling section.
+
+Section eyebrow:
+"THE RUDRAKSH DNA"
+
+Headline:
+"Soul & Science"
+
+Supporting introduction:
+
+"We're not just another agency. We combine the principles of focus and clarity with modern technology, creative thinking, and data-driven execution."
+
+Create two complementary visual worlds.
+
+## Part A — The Soul: Ancient Wisdom
+
+Subheading:
+"The Power of the Name"
+
+Preserve the meaning of the existing brand story:
+
+"'Rudraksh' symbolizes focus, clarity, and protection. In a world saturated with digital noise, we provide the clarity to see what truly matters and focus your message with precision."
+
+Core values:
+
+- Radical Transparency
+- Obsessive ROI
+- Creative Courage
+
+Visual direction:
+
+Create an abstract sculptural composition using porcelain, champagne metal, and carefully controlled light.
+
+Reference focus and clarity symbolically rather than adding religious imagery or unrelated cultural motifs.
+
+## Part B — The Science: Integrated Digital Mastery
+
+Subheading:
+"An Innovation & Growth Engine"
+
+Preserve the current positioning:
+
+"We are more than a marketing agency. We build cohesive digital ecosystems through intelligent marketing, data-first methodologies, high-performance web platforms, and strategic technology."
+
+Create an abstract visual system of interconnected dimensional objects.
+
+Use elegant nodes, layered forms, and subtle motion to suggest creative thinking, analytics, technology, and growth.
+
+## Mission
+
+"To empower businesses with integrated digital solutions, from intelligent marketing and high-performance web platforms to strategic IT consulting."
+
+## Vision
+
+"A future where businesses of all sizes leverage cutting-edge technology to achieve sustainable growth and digital success."
+
+Keep the mission and vision editable through a centralized content configuration.
+
+---
+
+# PHASE 8 — OUR GROWTH PROTOCOL
+
+Preserve the existing four-stage growth methodology.
+
+Section eyebrow:
+"OUR METHOD"
+
+Headline:
+"Our Growth Protocol"
+
+Supporting headline:
+"From Stranger to Loyal Customer: The 4-Stage Strategy."
+
+Build a scroll-driven four-stage visual experience.
+
+## Stage 01 — The Deep Scan
+
+Category:
+"Audit & Insight"
+
+Problem:
+"Most brands fly blind."
+
+Solution:
+"Analyze the competitive landscape, audience opportunities, current brand presence, and campaign performance to identify areas for improvement."
+
+Deliverable:
+"360° Digital Blueprint"
+
+Visual:
+A translucent analytical interface with layered data panels and a champagne-gold scanning ring.
+
+## Stage 02 — Viral Engineering
+
+Category:
+"Content Creation"
+
+Problem:
+"Content that gets ignored."
+
+Solution:
+"Develop compelling visual concepts, retention-focused scripts, strong hooks, and creative assets designed for the intended audience and platform."
+
+Deliverable:
+"20+ AI-Enhanced Assets/Month"
+
+Preserve this existing published deliverable, but make it easy to update and confirm before launch. Do not imply that the same quantity is included in every package.
+
+Visual:
+A dimensional vertical-video gallery with floating editorial content frames.
+
+## Stage 03 — Precision Targeting
+
+Category:
+"Distribution"
+
+Problem:
+"Wasted budget on the wrong audience."
+
+Solution:
+"Use audience targeting, Meta Ads, relevant Google campaigns, and local SEO to reach potential customers more effectively."
+
+Deliverable:
+"High-Intent Lead Generation"
+
+Visual:
+A refined 3D network connecting audience segments, campaign panels, and location-inspired nodes.
+
+Do not promise a guaranteed lead volume.
+
+## Stage 04 — The Scale Loop
+
+Category:
+"Optimization"
+
+Problem:
+"Stagnant growth."
+
+Solution:
+"Evaluate campaign performance, improve underperforming creative, optimize effective campaigns, and use appropriate retargeting and email automation."
+
+Deliverable:
+"Continuous Optimization"
+
+The existing website describes campaign monitoring and optimization. Do not imply that every client receives genuine 24/7 human monitoring unless this is confirmed.
+
+Visual:
+A sculptural circular feedback loop with subtle gold light moving through connected nodes.
+
+## Interaction
+
+Use a connected timeline, progressive line drawing, scroll-triggered active stages, and smooth transitions between the four steps.
+
+Each stage should be readable without requiring the user to trigger an animation.
+
+CTA:
+"Apply This Strategy to My Business"
+
+Secondary CTA:
+"See Our Creative Work"
+
+Both buttons must lead to meaningful destinations.
+
+---
+
+# PHASE 9 — CREATIVE GALLERY: CINEMATIC 3D SHOWCASE
+
+This section must reproduce the spirit of the supplied reference's curved, floating visual showcase while creating an original design for Rudraksh Innovations.
+
+Section eyebrow:
+"OUR CREATIVE WORLD"
+
+Headline:
+"Creative Gallery"
+
+Supporting copy:
+"Explore the ideas, visuals, and digital campaigns that bring brands to life."
+
+Small interaction label:
+"Swipe to Explore"
+
+## Gallery design
+
+Create a premium horizontal gallery with dimensional depth.
+
+Use a curved spatial arrangement so that project cards appear to travel through a subtle 3D arc.
+
+The active project should be visually prominent, while adjacent cards should be slightly smaller and angled away.
+
+Use:
+
+- CSS perspective
+- Transform-based depth
+- Motion-driven positioning
+- Optional React Three Fiber integration
+- Controlled lighting
+- Layered project mockups
+- Smooth snapping
+- Touch and mouse interaction
+
+Choose the implementation that provides the best balance of visual quality, accessibility, and performance.
+
+Do not force the entire page into horizontal scrolling.
+
+## Preserve the existing gallery categories and project titles
+
+Use the published creative gallery content:
+
+1. New Animated Ideas — Animated
+2. Diwali Special — Festival
+3. Knowledge Trends — Informative
+4. Product Launch — Product
+5. Christmas Campaign — Festival
+6. Informative AI — Informative
+7. Food & Beverage Ad — Product
+8. Animated Designs — Animated
+9. New Product — Product
+10. New Year Special — Festival
+
+Preserve the existing titles and category associations.
+
+If the current website contains repeated gallery entries, remove accidental duplicates from the new presentation unless the corresponding assets represent genuinely different projects.
+
+Reuse the original images where available. If an image is unavailable, create a clearly illustrative placeholder or use an original visual concept without misrepresenting it as a real client project.
+
+## Gallery interactions
+
+Implement:
+
+- Horizontal drag
+- Touch swipe
+- Previous and next controls
+- Smooth snap-to-center
+- Active card emphasis
+- Animated category labels
+- Project titles and descriptions
+- Keyboard-accessible navigation
+- Responsive mobile behavior
+
+Do not automatically rotate the gallery so quickly that users cannot read the projects.
+
+The gallery should feel cinematic, fluid, and premium.
+
+---
+
+# PHASE 10 — PRICING AND PACKAGES
+
+Preserve the actual published package structure and pricing.
+
+Section eyebrow:
+"TRANSPARENT PRICING"
+
+Headline:
+"Choose Your Growth Plan"
+
+Supporting text:
+"Choose the package that fits your scaling needs."
+
+Use three luxury pricing cards with clear deliverables, strong typography, and refined champagne-gold detailing.
+
+## Package 01 — Starter
+
+Published price:
+₹6,999/month
+
+Published deliverables:
+
+- 16 Social Posts/month
+- Community Management
+- Monthly Report
+- 1 Reel
+
+CTA:
+"Choose Starter"
+
+Present this package as the entry-level offering.
+
+## Package 02 — Growth
+
+Published price:
+₹10,499/month
+
+Published deliverables:
+
+- 20 Social Posts/month
+- 2 Reels/Shorts
+- Community Management
+- Paid Ad Management
+- Monthly Reports
+
+Mark this package:
+"Most Popular"
+
+Use a restrained visual distinction with a pale champagne background, a fine gold border, or subtle elevation.
+
+Do not add advertising spend to the included deliverables unless the business explicitly confirms that it is included.
+
+## Package 03 — Enterprise
+
+Published price:
+Custom pricing
+
+Published deliverables:
+
+- Unlimited Posts
+- Daily Reels
+- Dedicated Team
+- 24/7 Support
+- Full Branding
+- Advanced Analytics
+
+CTA:
+"Discuss a Custom Plan"
+
+Keep all deliverables editable and flag the Enterprise service commitments for confirmation before launch if they have not been verified.
+
+## Pricing implementation rules
+
+Do not silently alter the existing published prices.
+
+Centralize the pricing content so that packages can be updated without rewriting the layout.
+
+Format Indian currency correctly.
+
+Provide a clear inquiry path from every package.
+
+Do not invent additional package prices, limited-time offers, or discounts.
+
+If the current website's pricing is inconsistent with a later approved business specification, request clarification before publishing the conflicting information.
+
+---
+
+# PHASE 11 — CLIENT STORIES
+
+Preserve the current website's Client Stories section as a content component, but implement a verification gate before publication.
+
+Existing published entries:
+
+- Sarah Jenkins — CMO, TechFlow
+- Mike Ross — Founder, Spectra
+- Jessica Lee — Director, LuxeLiving
+- David Chen — CEO, Orbit
+
+The current website also contains statements about engagement growth, AI insights, advertising ROI, and agency performance.
+
+Do not present these names, roles, companies, quotes, or numerical performance claims as verified testimonials unless the business confirms that they are genuine and authorized for publication.
+
+If verified, display them using premium testimonial cards with elegant typography, restrained motion, and appropriate attribution.
+
+If verification is unavailable, replace the public-facing section with a non-testimonial alternative such as:
+
+"Built Around Your Business Goals"
+
+Use the agency's documented process, service capabilities, and working principles rather than fabricated client stories.
+
+Do not generate fake customer photographs or use unrelated people as testimonial portraits.
+
+---
+
+# PHASE 12 — FINAL CONTACT SECTION
+
+Section eyebrow:
+"LET'S BUILD TOGETHER"
+
+Headline:
+"Have a Project in Mind?"
+
+Supporting copy:
+"Tell us what you're working toward. We'll help you explore how our creative, marketing, and technology solutions can support your next stage of growth."
+
+Preserve the current website's inquiry workflow.
+
+## Form fields
+
+- Name
+- Email
+- Select Service
+- Description
+
+The service dropdown should include the published services:
+
+- Social Media Management
+- Instagram Growth
+- Paid Ads
+- Reel Production
+- Branding
+- Web Development
+- Email Marketing
+- SEO & Local SEO
+- Other / Custom Requirements
+
+Use an elegant form layout with clear labels, polished focus states, and a visually prominent submit button.
+
+CTA:
+"Send Message"
+
+## Form requirements
+
+Implement:
+
+- Client-side validation
+- Server-side validation
+- Accessible field labels
+- Helpful error messages
+- Submission loading state
+- Success state only after confirmed submission
+- Error state if submission fails
+- Spam protection where appropriate
+
+Inspect existing form handling and preserve it if functional.
+
+If there is no working backend, create a properly documented integration using an appropriate API route and configurable environment variables.
+
+Never expose secret API keys in client-side code.
+
+Do not pretend an email has been sent if no delivery integration is configured.
+
+## Contact information
+
+Use these existing contact details:
+
+Website:
+https://rudrakshinnovations.com/
+
+Email:
+info@rudrakshinnovations.com
+
+Phone:
++91 78743 31074
+
+Alternate phone:
++91 81281 55486
+
+Make email and telephone numbers clickable.
+
+Use only social links and booking links already verified in the current website or project.
+
+## Visual treatment
+
+Place the contact form beside a custom 3D sculptural object, with an elegant champagne ribbon or porcelain structure that visually leads toward the form.
+
+Use the light luxury theme and maintain excellent contrast.
+
+On mobile, prioritize the form and contact information over decorative effects.
+
+---
+
+# PHASE 13 — FOOTER
+
+Create a refined, fully implemented footer.
+
+Brand:
+Rudraksh Innovations
+
+Preserve the existing brand statement:
+
+"Redefining digital dominance. We merge creative brilliance with algorithmic precision to build brands that lead the future."
+
+Supporting line:
+"Your brand's future starts here."
+
+Include:
+
+- Brand wordmark
+- Short company description
+- Navigation links
+- All published service links
+- Contact email
+- Both phone numbers
+- Verified social links, where available
+- Privacy Policy, if a corresponding page exists
+- Terms and Conditions, if a corresponding page exists
+- Dynamically generated copyright year
+
+Use a warm ivory or porcelain surface with champagne details and a subtle decorative visual.
+
+The footer must remain elegant and compact rather than becoming a dense collection of links.
+
+Do not invent social media URLs or legal pages that do not exist.
+
+---
+
+# PHASE 14 — THREE.JS AND MOTION IMPLEMENTATION
+
+Use the project's existing compatible stack.
+
+Preferred technologies:
+
+- Next.js App Router
+- React
+- TypeScript
+- Tailwind CSS
+- Three.js
+- React Three Fiber
+- Drei
+- Motion for React
+- Lucide React
+
+Inspect installed versions before making dependency changes.
+
+Use React Three Fiber for the main hero sculpture and selected additional 3D elements.
+
+Use Motion for React for DOM transitions, text reveals, navigation, cards, and scroll-linked movement.
+
+Use CSS transforms and perspective for the portfolio gallery if a full WebGL gallery would be unnecessarily expensive.
+
+Use semantic HTML and proper component boundaries.
+
+Implement reusable components for the navigation, hero, services, growth protocol, gallery, pricing, contact form, and footer.
+
+Keep service descriptions, package information, and contact information in centralized configuration files.
+
+## Performance requirements
+
+- Dynamically load heavy client-only 3D components.
+- Use lightweight loading fallbacks.
+- Avoid rendering multiple unnecessary WebGL canvases.
+- Reuse geometry and materials when appropriate.
+- Dispose of GPU resources when components unmount.
+- Limit particles and expensive effects on mobile.
+- Avoid unnecessarily large textures.
+- Use optimized image dimensions and modern formats.
+- Avoid hydration mismatches.
+- Prevent unnecessary React re-renders.
+- Respect reduced-motion preferences.
+- Provide a non-WebGL fallback.
+
+The initial page should render quickly and remain responsive while the 3D scene loads.
+
+---
+
+# PHASE 15 — ACCESSIBILITY, RESPONSIVENESS, AND SEO
+
+## Responsive behavior
+
+Test:
+
+- Large desktop
+- Standard desktop
+- Laptop
+- Tablet
+- Mobile
+
+Ensure the design works without horizontal overflow.
+
+Use touch-friendly gallery controls, appropriate text sizing, responsive typography, and sensible stacking of cards.
+
+## Accessibility
+
+Implement:
+
+- Semantic page landmarks
+- Keyboard-accessible navigation
+- Visible focus states
+- Accessible buttons
+- Proper form labels
+- Useful alt text
+- Sufficient color contrast
+- Reduced-motion support
+- Accessible carousel controls
+
+Never rely on hover alone to reveal essential content.
+
+## SEO
+
+Use the current website's brand and services to establish appropriate metadata.
+
+Suggested homepage title:
+
+"Rudraksh Innovations | AI-Powered Digital Marketing & Web Development"
+
+Suggested meta description:
+
+"Rudraksh Innovations delivers social media management, Instagram growth strategies, paid advertising, reel production, branding, web development, email marketing, and SEO solutions."
+
+Implement:
+
+- Page title
+- Meta description
+- Open Graph metadata
+- Canonical URL
+- Appropriate social sharing metadata
+- Semantic heading hierarchy
+- Descriptive image alt text
+- Sitemap and robots configuration where appropriate
+- Suitable favicon and logo assets
+
+Do not invent business addresses or company registration details.
+
+Use structured data only when the relevant business facts can be verified.
+
+---
+
+# PHASE 16 — REQUIRED IMPLEMENTATION WORKFLOW
+
+## Step 1: Audit
+
+Inspect the existing repository, UI/UX Pro Max skill, current website, assets, dependencies, and available integrations.
+
+Identify existing content that should be migrated and assets that can be reused.
+
+## Step 2: Design system
+
+Establish the luxury color palette, typography, spacing, grid, component styles, and motion system before building the page.
+
+## Step 3: Build the complete website
+
+Implement every section described in this prompt.
+
+Do not stop after the hero or services section.
+
+## Step 4: Integrate interactions
+
+Implement scrolling, navigation, 3D animation, portfolio controls, package CTAs, and the working contact workflow.
+
+## Step 5: Verify the content
+
+Check that every service, gallery title, package price, deliverable, brand statement, and contact detail is correct.
+
+Flag testimonial verification and any unresolved pricing or service discrepancies.
+
+## Step 6: Test the implementation
+
+Run the available project commands for:
+
+- Linting
+- Type checking
+- Production build
+- Existing automated tests
+
+Fix implementation errors.
+
+If browser inspection is available, inspect the actual rendered page at desktop and mobile sizes.
+
+Check console errors, broken images, navigation links, gallery interactions, form behavior, and reduced-motion behavior.
+
+## Step 7: Refine the design
+
+Improve any section that looks generic, repetitive, cluttered, unfinished, or inconsistent with the luxury design system.
+
+Do not settle for a basic template.
+
+---
+
+# FINAL ACCEPTANCE CRITERIA
+
+The project is complete only when:
+
+1. The website preserves Rudraksh Innovations' actual published business information.
+2. The overall theme is premium ivory, champagne gold, and lavender—not black throughout.
+3. The hero has an original, functioning 3D visual.
+4. All eight published service categories are included.
+5. The Rudraksh DNA section includes the brand philosophy, core values, mission, and vision.
+6. All four stages of the existing growth protocol are implemented.
+7. The creative gallery includes the original project titles and category associations, without accidental duplicates.
+8. The pricing section uses the published Starter, Growth, and Enterprise offers.
+9. Testimonials are verified before being presented as genuine.
+10. The contact form accurately reports its submission status.
+11. Contact details and website links are correct.
+12. The footer is complete.
+13. All sections work responsively on desktop and mobile.
+14. The site supports keyboard navigation and reduced motion.
+15. Available quality checks have been run and relevant errors fixed.
+16. There are no dead buttons, broken links, fake form success messages, or fabricated business claims.
+17. The website feels like a bespoke, premium digital experience rather than a generic template.
+
+**Most important:** Do not stop at planning, a screenshot, or a homepage mockup. Inspect the actual project, implement the complete website, verify the real business content, test the interactions, and refine the final experience.
+
+The finished website should combine the originality of an award-quality creative studio with the clarity, trustworthiness, and conversion focus of a professional digital agency.
+
+Build for Rudraksh Innovations. Preserve its identity. Elevate its presentation. Make every section feel intentional.
