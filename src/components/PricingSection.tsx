@@ -18,7 +18,7 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ onSelectPlan }) 
         '16 High-Quality Social Posts / Month',
         'Active Community Management & Responses',
         'Monthly In-Depth Performance & Analytics Report',
-        '1 Produced Viral Reel / Short / Month',
+        '4 Produced Viral Reel / Short / Month',
         'Audience Tone & Monthly Content Calendar',
         'Standard Turnaround & Dedicated WhatsApp Support',
       ],
@@ -33,7 +33,7 @@ export const PricingSection: React.FC<PricingSectionProps> = ({ onSelectPlan }) 
       isFeatured: true,
       features: [
         '20 High-Converting Social Posts / Month',
-        '2 Produced High-Retention Reels / Shorts / Month',
+        '5 Produced High-Retention Reels / Shorts / Month',
         'Full Community Management & Daily Engagement',
         'Paid Ad Campaign Management (Meta & Google)',
         'Bi-Weekly In-Depth Growth & ROI Reports',
