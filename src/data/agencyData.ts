@@ -248,7 +248,7 @@ export const PRICING_PLANS: PricingPlan[] = [
       "16 High-Quality Social Posts / Month",
       "Active Community Management",
       "Monthly In-Depth Performance Report",
-      "1 Produced Reel / Short / Month",
+      "4 Produced Reel / Short / Month",
       "Brand Tone & Content Calendar",
       "Standard Turnaround & Support",
     ],
@@ -264,7 +264,7 @@ export const PRICING_PLANS: PricingPlan[] = [
     tagline: "Accelerated brand scaling with paid acquisition and dynamic short-form video.",
     deliverables: [
       "20 High-Converting Social Posts / Month",
-      "2 Produced Reels / Shorts / Month",
+      "5 Produced Reels / Shorts / Month",
       "Full Community Management & Engagement",
       "Paid Ad Campaign Management (Meta/Google)",
       "Bi-Weekly Analytics & ROI Reports",
